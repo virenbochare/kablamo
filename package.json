@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "allure-commandline": "^2.22.1",
+    "experimental-allure-playwright": "^0.0.3"
+  }
+}
